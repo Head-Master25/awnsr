@@ -370,11 +370,13 @@ button {
 	border-radius: 12px;
 	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 	transition: all 0.3s;
+	text-align: center;
 }
 
 .service-card:hover {
 	transform: translateY(-4px);
 	box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+	
 }
 
 .service-icon {
@@ -386,12 +388,14 @@ button {
 	font-size: 1.75rem;
 	margin-bottom: 1rem;
 	color: var(--dark);
+	text-align: center;
 }
 
 .service-card p {
 	color: var(--gray-text);
 	margin-bottom: 1.5rem;
 	line-height: 1.6;
+	text-align: center;
 }
 
 .service-features {
