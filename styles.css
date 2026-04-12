@@ -328,11 +328,13 @@ button {
 	font-size: 1.5rem;
 	margin-bottom: 1rem;
 	color: var(--primary-yellow);
+	text-align: center;
 }
 
 .value-card p {
 	color: var(--gray-text);
 	margin: 0;
+	text-align: center;
 }
 
 .mission-section {
